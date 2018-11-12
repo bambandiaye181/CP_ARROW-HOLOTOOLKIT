@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>HoloLens Tutorial New Dev Stack</UnityWSASolutionName>
+        <UnityWSASolutionDir>D:\softwares\Unity2017.1.0p5\Western-Town\Western-Town\build2\</UnityWSASolutionDir>
+        <UnityProjectDir>D:\softwares\Unity2017.1.0p5\Western-Town\Western-Town\</UnityProjectDir>
+        <UnityWSAPlayerDir>D:\softwares\Unity2017.1.0p5\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>
